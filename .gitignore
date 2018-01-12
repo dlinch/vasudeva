@@ -9,6 +9,7 @@ erl_crash.dump
 
 # Generated on crash by NPM
 npm-debug.log
+.elixir_ls
 
 # Static artifacts
 /assets/node_modules
